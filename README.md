@@ -22,12 +22,6 @@ Ensure you have the following installed:
 - Matplotlib
 - torchvision
 
-## Download the Notebook
-You can access the Jupyter Notebook containing the full implementation of AnimeGAN here:  
-
-📂 [AnimeGAN.ipynb - Google Drive](https://drive.google.com/file/d/1J6jKAOZdEf9VKtSZLXPIL5qksUhiamuS/view?usp=drive_link)
-
-
 ## Results
 - The model successfully generates anime-style images after training on a dataset of anime characters.
 - Achieved an **Inception Score of 2.0188** with a **standard deviation of 0.2684**, indicating strong generative performance even on small image sizes.
